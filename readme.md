@@ -4,7 +4,7 @@
 
 ### Demo ⭐
 
-[Demo - reloj ](https://rollingcodeschool.github.io/4-reloj/)
+[Demo - lista de tareas ](https://rollingcodeschool.github.io/3-listaTareasJS/)
 
 ___
 
